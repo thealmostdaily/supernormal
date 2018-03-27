@@ -16,3 +16,6 @@ Lorem gibson paranoid Shibuya claymore jeans 8-bit sprawl. Concrete shoes euro-p
 
 New words.
 
+{% include figure image_path="uploads/Gary-Peters_occassional-mono_1200w.jpg" alt="Porsche 911" caption="Porsche 911" %}{: .full .tc}
+
+
