@@ -16,3 +16,6 @@ Lorem gibson paranoid Shibuya claymore jeans 8-bit sprawl. Concrete shoes euro-p
 
 {% include figure image_path="/uploads/Gary-Peters_occassional-mono_1200w.jpg" alt="Macbook on a table" caption="Macbook on my office desk" %}
 
+
+New words.
+
