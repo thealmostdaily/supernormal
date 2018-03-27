@@ -5,10 +5,10 @@ date: 2018-03-27 21:04:00 +13:00
 
 ![Gary-Peters_occassional-mono_1200w.jpg](/uploads/Gary-Peters_occassional-mono_1200w.jpg)
 
-Occasional Monochrome (the orange one)
-Flashe on canvas
-250 × 200mm
-2015
+Occasional Monochrome (the orange one)  
+Flashe on canvas  
+250 × 200mm  
+2015  
 
 
 
